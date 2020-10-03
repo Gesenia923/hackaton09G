@@ -8,7 +8,7 @@ EL PROBLEMA:
 PREGUNTAS:
 
     • ¿Cuál fue la razón de crear Javascript?
-        La razón fue evitar perder tiempo ante las aplicaciones complejas, ya que para una acción se tenía que invertir en varios procesos más, entonces al crearse Javascript evoluciona eso, combinando todo esas acciones para su uso en un solo uso dentro de una página con infinitas interacciones.  
+        La razón fue evitar perder tiempo ante las aplicaciones complejas, ya que para una acción, se tenía que invertir en varios procesos más, entonces al crearse Javascript evoluciona eso, combinando todas esas acciones en una sola, dentro de una página con infinitas interacciones.  
 
     • ¿Quién fue el creador de Javascript?
         El creador fue Brendan Eich, programador estadounidense.
